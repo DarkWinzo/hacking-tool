@@ -59,4 +59,4 @@ Open the terminal and type following commands.
 
 
 # SUPPORT 
-[![Donate Contact me]([[https://img.shields.io/badge/whatsapp Dark](https://img.shields.io/badge/Contact%20DarkWinzo-Please%20Donate%20Me-yellowgreen)](https://Wa.me/+94775200935/)
+[![Donate Contact me]([https://img.shields.io/badge/whatsapp Darkwinzo-gold?style=for-the-badge&logo=PayPal](https://img.shields.io/badge/Contact%20DarkWinzo-Please%20Donate%20Me-yellowgreen))](https://Wa.me/+94775200935/)
