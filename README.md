@@ -60,4 +60,4 @@ Open the terminal and type following commands.
 
 # SUPPORT 
 
-[![Donate Me]([https://img.shields.io/github/forks/DarkWinzo/hacking-tool.svg](https://img.shields.io/badge/Contact%20DarkWinzo-Please%20Donate%20Me-yellowgreen))](https://Wa.me/+94775200935)
+[!([https://img.shields.io/github/forks/DarkWinzo/hacking-tool.svg](https://img.shields.io/badge/Contact%20DarkWinzo-Please%20Donate%20Me-yellowgreen))](https://Wa.me/+94775200935)
