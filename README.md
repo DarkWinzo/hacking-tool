@@ -8,7 +8,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 <br>
 <p align="center">
-<img width="35%" src="https://i.ibb.co/Nxd36B3/Dark-Winzo.jpg"/>
+<img width="100%" src="https://i.ibb.co/Nxd36B3/Dark-Winzo.jpg"/>
 </p>
 
 <p align="center">
